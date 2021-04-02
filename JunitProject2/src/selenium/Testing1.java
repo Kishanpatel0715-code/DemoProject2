@@ -53,4 +53,11 @@ public class Testing1 {
 		//System.out.println("logout");
 	}
 
+	@Test
+	public void test4() {
+		//System.out.println("login");
+		System.out.println("Test4");
+		//System.out.println("logout");
+	}
+
 }
